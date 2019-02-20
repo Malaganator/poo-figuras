@@ -7,7 +7,11 @@ import geometria.*;
  */
 public class Figuras {
 	public static void main(String[] args) throws InterruptedException {
-		System.out.print("Comienza el Main");
+		Punto punto1  = new Punto(7, 5);
+		Punto punto2 = new Punto(4, 1);
+
+		Linea linea = new Linea(punto1, punto2);
+		System.out.print(linea.distanciaEntrePuntos());
 	}
 
 }

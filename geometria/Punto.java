@@ -4,8 +4,7 @@ package geometria;
  * Punto
  */
 public class Punto {
-	private double x;
-	private double y;
+	private double x, y;
 
 	public Punto(double x, double y) {
 		this.x = x;
