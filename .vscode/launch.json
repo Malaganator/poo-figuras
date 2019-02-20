@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Figuras",
+            "request": "launch",
+            "mainClass": "Figuras",
+            "projectName": "Figuras_37146415"
+        }
+    ]
+}
