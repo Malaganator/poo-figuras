@@ -1,7 +1,7 @@
 package geometria;
 
 /**
- * Linea
+ * Linea Recta
  */
 public class Linea {
     private Punto punto1, punto2;
